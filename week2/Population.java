@@ -25,7 +25,8 @@ public class Population {
     }
 }
 /*
-//This was my first attempt
+This was my first attempt
+The issue here was the use of data types ie int and double
 public class Population {
     public static void main(String[] args) {
         int popn = 14000000;
