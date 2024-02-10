@@ -1,3 +1,6 @@
+/*
+For nested for loops once the outer loop is executed once the inner loop is iterated to completion before going back to the outer loop
+*/
 public class Forloopexe{
     public static void main(String [] args){
 //simple fo loop exe
